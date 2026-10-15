@@ -1,0 +1,6 @@
+{
+  "name": "WishCraft - Greeting Card & Poster Studio",
+  "description": "Create, customize, preview, and share personalized greeting cards, romantic proposal messages, festive wishes, and posters with direct public links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
